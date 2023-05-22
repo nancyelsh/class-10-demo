@@ -1,0 +1,61 @@
+body {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  color: #63615c;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  border-radius: 18px;
+  /* border-radius: 50%; image */
+  margin: 15px;
+  /* display: block; */
+}
+
+button {
+  font-size: 15px;
+}
+
+.heading {
+  color: #1c1b1f;
+}
+
+.sub-heading {
+  color: #8f4413;
+}
+
+.s1-container {
+  background-color: antiquewhite;
+  padding: 20px;
+  margin-bottom: 80px;
+}
+
+.s2-s3-container {
+  position: relative;
+  /* background-color: #63615c; */
+}
+
+/* Position and Z-Index */
+/* Display */
+.box {
+  /* background-color: aqua; */
+  /* Senario 1 */
+  /* position: absolute;
+  top: -10px;
+  right: -10px;
+  z-index: 5; */
+  /* Senario 2 */
+  /* top: 0px;
+  right: 0px;
+  z-index: -5; */
+}
+
+.display {
+}
